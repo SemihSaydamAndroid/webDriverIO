@@ -19,4 +19,3 @@ Then(/^I should see a flash message saying (.*)$/, (message) => {
     expect(SecurePage.flashAlert).toBeExisting();
     expect(SecurePage.flashAlert).toHaveTextContaining(message);
 });
-
