@@ -21,6 +21,7 @@
     "chai": "^4.3.0",
     "chai-webdriverio": "^1.0.0",
     "chromedriver": "^88.0.0",
+    "local-runner": "^0.1.1-alpha",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.5",
     "wdio": "^4.0.0",
