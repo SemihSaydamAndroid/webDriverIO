@@ -9,7 +9,8 @@
   "author": "Semih Saydam",
   "license": "ISC",
   "dependencies": {
-    "@wdio/cli": "^7.0.7"
+    "@wdio/cli": "^7.0.7",
+    "expect-webdriverio": "^1.4.1"
   },
   "devDependencies": {
     "@wdio/allure-reporter": "^7.0.7",
